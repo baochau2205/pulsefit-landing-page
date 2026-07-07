@@ -11,6 +11,10 @@ A modern and responsive fitness landing page built using HTML and CSS.
 - Modern UI
 - Mobile Friendly
 
+## Prevew 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9bc995db-a297-4b05-91b6-9ecbfbe7780f" />
+
+
 ## Technologies
 
 - HTML5
